@@ -1,4 +1,4 @@
-# All in One Accessibility®: Bagisto Extension
+# All in One Accessibility®: Netlify Extension
 
 All in One Accessibility AI free Widget Supports limited 23 features only and includes 140 Languages.
 
@@ -59,8 +59,8 @@ https://cheerful-sfogliatella-cb697f.netlify.app/
 
 ## Documentation
 
-- [Purchase Bagisto All in One Accessibility](https://www.skynettechnologies.com/bagisto-accessibility-widget)
-- [How to install All in One Accessibility Addon on Bagisto](https://www.skynettechnologies.com/blog/bagisto-accessibility-menu-widget-installation)
+- [Purchase Netlify All in One Accessibility](https://www.skynettechnologies.com/netlify-accessibility-widget)
+- [How to install All in One Accessibility Addon on Netlify](https://www.skynettechnologies.com/blog/netlify-accessibility-menu-widget-installation)
 - [All in One Accessibility - Features Guide](https://www.skynettechnologies.com/sites/default/files/accessibility-widget-features-list.pdf)
 
 ## Submit a Support Request
