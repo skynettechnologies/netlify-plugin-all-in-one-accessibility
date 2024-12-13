@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/pagewatchdev/netlify-plugin-pagewatch/issues"
   },
-  "author": "PageWatch",
+  "author": "Skynet Technologies",
   "license": "MIT",
   "engines": {
     "node": ">=8.12.0"
