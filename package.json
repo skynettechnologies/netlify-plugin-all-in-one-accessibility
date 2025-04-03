@@ -1,6 +1,6 @@
 {
   "name": "netlify-plugin-all-in-one-accessibility",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "All in One Accessibility plugin for Netlify",
   "main": "index.js",
   "scripts": {
@@ -12,11 +12,11 @@
     "frontend-testing",
     "netlify-plugin"
   ],
-  "repository": "https://github.com/pagewatchdev/netlify-plugin-pagewatch",
+  "repository": "https://github.com/skynettechnologies/netlify-plugin-all-in-one-accessibility",
   "bugs": {
-    "url": "https://github.com/pagewatchdev/netlify-plugin-pagewatch/issues"
+    "url": "https://github.com/skynettechnologies/netlify-plugin-all-in-one-accessibility/issues"
   },
-  "author": "PageWatch",
+  "author": "SkynetTechnologies",
   "license": "MIT",
   "engines": {
     "node": ">=8.12.0"
