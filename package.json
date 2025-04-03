@@ -4,7 +4,8 @@
   "description": "All in One Accessibility plugin for Netlify",
   "main": "src/index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "netlify-extension build -a",
+    "dev": "netlify-extension dev --open"
   },
   "keywords": [
     "netlify",
