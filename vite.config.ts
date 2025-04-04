@@ -6,7 +6,7 @@ import tailwindcssPlugin from "tailwindcss";
 export default defineConfig(() => ({
   base: "",
   build: {
-    outDir: "dist",
+    outDir: "../../.ntli/site/static/ui",
   },
   root: "./src/ui",
   plugins: [react()],
