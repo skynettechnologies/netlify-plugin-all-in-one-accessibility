@@ -4,7 +4,7 @@ import { makeConnectSettings } from "./schema/settings-schema";
 
 const extension = new NetlifyExtension();
 const connector = extension.addConnector({
-  typePrefix: "Showcase",
+  typePrefix: "all-in-one-accessibility",
   supports: {
     connect: true,
     visualEditor: false,
