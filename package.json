@@ -8,6 +8,12 @@
     "build": "netlify-extension build -a",
     "dev": "netlify-extension dev --open"
   },
+  "exports": {
+    ".": {
+      "source": "./src/index.ts",
+      "default": "./dist/index.js"
+    }
+  },
   "keywords": [
     "netlify",
     "Accessibility",
