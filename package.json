@@ -3,6 +3,7 @@
   "version": "1.0.6",
   "description": "All in One Accessibility plugin for Netlify",
   "main": "src/index.ts",
+  "type": "module",
   "scripts": {
     "build": "netlify-extension build -a",
     "dev": "netlify-extension dev --open"
